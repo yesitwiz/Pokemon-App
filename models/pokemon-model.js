@@ -1,5 +1,4 @@
 //came from connection.js
-
 const mongoose = require("../database/connection");
 
 const PokeSchema = new mongoose.Schema (
