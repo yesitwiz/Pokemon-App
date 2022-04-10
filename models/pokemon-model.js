@@ -3,6 +3,7 @@ const mongoose = require("../database/connection");
 
 const PokeSchema = new mongoose.Schema (
     {
+        entry: Boolean,
         name: String,
         img: String
     }

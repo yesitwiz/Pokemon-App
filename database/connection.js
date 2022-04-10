@@ -1,4 +1,4 @@
-//came here after server.js. created database folder
+//came here after index.js. created database folder
 
 const mongoose = require('mongoose');
 
